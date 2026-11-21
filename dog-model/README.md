@@ -10,23 +10,23 @@ This page details the creation process of a 3D border collie model.
 
 I began by taking screenshots of the original Minecraft dog model from multiple perspectives, including the front, back, and side views. These screenshots served as reference images to help maintain consistent proportions and capture the overall shape of the dog.
 
-![Front View](main/dog-model/dog-reference-front.png)
+![Front View](dog-reference-front.png)
 
-![Side View](dog-model/dog-reference-side.png)
+![Side View](dog-reference-side.png)
 
-![Back View](dog-model/dog-reference-back.png)
+![Back View](dog-reference-back.png)
 
 ### 2. Importing References into Blender
 
 Next, I imported the screenshots into Blender as reference images, positioning them to correspond with their respective viewing angles.
 
-![Screenshot positioning in Blender](dog-model/dog-reference-placement.png)
+![Screenshot positioning in Blender](dog-reference-placement.png)
 
 ### 3. Creating the 3D Model
 
 Using the imported images as guides, I recreated the dog model in Blender. The reference images helped determine the relative sizes, proportions, and placement of different body parts.
 
-![3D model in Blender](dog-model/dog-blendr-w-ref-pics.png)
+![3D model in Blender](dog-blendr-w-ref-pics.png)
 
 ## References
 
